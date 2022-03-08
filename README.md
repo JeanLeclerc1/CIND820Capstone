@@ -1,5 +1,7 @@
 # CIND820Capstone
 
+Link to repository: https://github.com/JeanLeclerc1/CIND820Capstone
+
 The notebook has 3 main parts
 1. Data visualization and cleaning
 2. Model proof of concept
